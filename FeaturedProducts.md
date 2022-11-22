@@ -1,4 +1,4 @@
 "Featured-Products"
 
-- Product 1
-- Product 2
+- Product 1 Discount: % User: ****
+- Product 2 Discount: % User: ****
